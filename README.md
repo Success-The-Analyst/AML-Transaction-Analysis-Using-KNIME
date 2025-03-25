@@ -60,9 +60,6 @@ This project uses **KNIME Analytics Platform** to analyze **anti-money launderin
 - **Implement machine learning models for fraud detection.**
 - **Enhance risk scoring algorithms using AI.**
 
-## 📧 Contact
-For any issues or questions, reach out via **[Your Email]** or visit **[Your GitHub/Portfolio]**.
-
 ---
 ✅ **Follow these steps and run your first KNIME AML analysis today!** 🚀
 
