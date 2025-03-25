@@ -1,99 +1,68 @@
-AML Transaction Analysis Using KNIME
+# AML Transaction Analysis Using KNIME
 
-📌 Project Overview
+## 📌 Project Overview
+This project uses **KNIME Analytics Platform** to analyze **anti-money laundering (AML) transactions** based on a dataset of financial transactions from Canadian provinces. The goal is to **identify suspicious transactions, detect high-risk customers, and generate automated reports** for compliance and regulatory monitoring.
 
-This project uses KNIME Analytics Platform to analyze anti-money laundering (AML) transactions based on a dataset of financial transactions from Canadian provinces. The goal is to identify suspicious transactions, detect high-risk customers, and generate automated reports for compliance and regulatory monitoring.
+## 📂 Dataset
+- **File:** `aml_canadian_transactions.csv`
+- **Columns:**
+  - `Transaction_ID`: Unique identifier for each transaction
+  - `Customer_Name`: Name of the customer
+  - `Province`: Canadian province of transaction
+  - `Transaction_Amount`: Amount in CAD
+  - `Transaction_Type`: Type of transaction (Wire Transfer, Crypto, etc.)
+  - `Risk_Level`: Risk rating (Low, Medium, High)
+  - `AML_Flag`: 1 = Suspicious, 0 = Normal
 
-📂 Dataset
+## 🛠 Tools & Technologies
+- **KNIME Analytics Platform** (Data processing & analysis)
+- **Excel Writer** (Saving flagged transactions)
+- **Rule Engine & Filters** (Identifying suspicious transactions)
+- **Bar Chart Node** (Data visualization)
+- **Send Email Node** (Automated alerts)
+- **KNIME WebPortal** (Dashboard deployment)
 
-File: aml_canadian_transactions.csv
+## 🚀 Steps to Run the Workflow
 
-Columns:
+### **1. Import Data**
+1. Open **KNIME Analytics Platform**.
+2. Drag & drop a **CSV Reader** node.
+3. Select `aml_canadian_transactions.csv` and execute the node.
 
-Transaction_ID: Unique identifier for each transaction
+### **2. Data Cleaning & Preparation**
+1. Use **Missing Value** node to fill missing values.
+2. Use **String to Number** node to convert `Transaction_Amount` to numeric.
+3. Normalize province names using **String Manipulation** node.
 
-Customer_Name: Name of the customer
+### **3. Identifying High-Risk Transactions**
+1. Apply **Row Filter** node to keep transactions above $10,000.
+2. Use **Rule-Based Row Filter** node to filter high-risk customers.
+3. Implement **Rule Engine** node to flag transactions involving `Crypto` and large `Cash Deposits`.
 
-Province: Canadian province of transaction
+### **4. Reporting & Visualization**
+1. Use **GroupBy** node to summarize transactions by province & risk level.
+2. Save flagged transactions using **Excel Writer**.
+3. Generate a **Bar Chart** for high-risk transactions per province.
 
-Transaction_Amount: Amount in CAD
+### **5. Automate & Deploy**
+1. **Schedule Execution** using KNIME Server.
+2. **Send Email Alerts** for flagged transactions using **Send Email** node.
+3. **Deploy Dashboard** using **KNIME WebPortal Output** node.
 
-Transaction_Type: Type of transaction (Wire Transfer, Crypto, etc.)
+## 📊 Expected Outputs
+- **Filtered High-Risk Transactions List**
+- **Excel Report of Suspicious Transactions**
+- **Visual Dashboard for AML Monitoring**
+- **Automated Email Alerts for Compliance Teams**
 
-Risk_Level: Risk rating (Low, Medium, High)
+## 📌 Future Enhancements
+- **Integrate real-time data sources (SQL, APIs).**
+- **Implement machine learning models for fraud detection.**
+- **Enhance risk scoring algorithms using AI.**
 
-AML_Flag: 1 = Suspicious, 0 = Normal
+## 📧 Contact
+For any issues or questions, reach out via **[Your Email]** or visit **[Your GitHub/Portfolio]**.
 
-🛠 Tools & Technologies
+---
+✅ **Follow these steps and run your first KNIME AML analysis today!** 🚀
 
-KNIME Analytics Platform (Data processing & analysis)
-
-Excel Writer (Saving flagged transactions)
-
-Rule Engine & Filters (Identifying suspicious transactions)
-
-Bar Chart Node (Data visualization)
-
-Send Email Node (Automated alerts)
-
-KNIME WebPortal (Dashboard deployment)
-
-🚀 Steps to Run the Workflow
-
-1. Import Data
-
-Open KNIME Analytics Platform.
-
-Drag & drop a CSV Reader node.
-
-Select aml_canadian_transactions.csv and execute the node.
-
-2. Data Cleaning & Preparation
-
-Use Missing Value node to fill missing values.
-
-Use String to Number node to convert Transaction_Amount to numeric.
-
-Normalize province names using String Manipulation node.
-
-3. Identifying High-Risk Transactions
-
-Apply Row Filter node to keep transactions above $10,000.
-
-Use Rule-Based Row Filter node to filter high-risk customers.
-
-Implement Rule Engine node to flag transactions involving Crypto and large Cash Deposits.
-
-4. Reporting & Visualization
-
-Use GroupBy node to summarize transactions by province & risk level.
-
-Save flagged transactions using Excel Writer.
-
-Generate a Bar Chart for high-risk transactions per province.
-
-5. Automate & Deploy
-
-Schedule Execution using KNIME Server.
-
-Send Email Alerts for flagged transactions using Send Email node.
-
-Deploy Dashboard using KNIME WebPortal Output node.
-
-📊 Expected Outputs
-
-Filtered High-Risk Transactions List
-
-Excel Report of Suspicious Transactions
-
-Visual Dashboard for AML Monitoring
-
-Automated Email Alerts for Compliance Teams
-
-📌 Future Enhancements
-
-Integrate real-time data sources (SQL, APIs).
-
-Implement machine learning models for fraud detection.
-
-Enhance risk scoring algorithms using AI.
