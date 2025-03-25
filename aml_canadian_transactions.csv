@@ -1,0 +1,501 @@
+Transaction_ID,Customer_Name,Province,Transaction_Amount,Transaction_Type,Risk_Level,AML_Flag
+TXN10000,Customer_0,Quebec,9710.05,Cash Deposit,Low,0
+TXN10001,Customer_1,New Brunswick,4022.54,Wire Transfer,Low,0
+TXN10002,Customer_2,Alberta,9877.84,E-Transfer,Medium,0
+TXN10003,Customer_3,British Columbia,44727.25,Cash Deposit,High,1
+TXN10004,Customer_4,Quebec,23065.05,Wire Transfer,Low,1
+TXN10005,Customer_5,Ontario,22843.83,Credit Card Payment,Medium,1
+TXN10006,Customer_6,British Columbia,37042.98,Cash Deposit,Medium,0
+TXN10007,Customer_7,Alberta,37403.94,E-Transfer,Medium,0
+TXN10008,Customer_8,Ontario,47795.04,Cheque,Low,0
+TXN10009,Customer_9,Saskatchewan,41601.28,Cheque,Medium,1
+TXN10010,Customer_10,Alberta,1466.62,Cheque,Low,1
+TXN10011,Customer_11,New Brunswick,38931.83,Wire Transfer,High,0
+TXN10012,Customer_12,Quebec,43068.3,Cash Deposit,High,1
+TXN10013,Customer_13,Manitoba,29478.04,Cheque,High,1
+TXN10014,Customer_14,Ontario,29178.88,Cheque,High,0
+TXN10015,Customer_15,British Columbia,15765.05,Cash Deposit,High,1
+TXN10016,Customer_16,New Brunswick,41520.77,E-Transfer,High,0
+TXN10017,Customer_17,New Brunswick,40536.88,Wire Transfer,High,0
+TXN10018,Customer_18,Alberta,31073.23,Cheque,Low,0
+TXN10019,Customer_19,New Brunswick,21617.28,E-Transfer,Medium,0
+TXN10020,Customer_20,British Columbia,7461.4,Wire Transfer,High,0
+TXN10021,Customer_21,Alberta,5381.78,Cheque,High,1
+TXN10022,Customer_22,British Columbia,26526.78,Cheque,Medium,0
+TXN10023,Customer_23,Nova Scotia,38259.75,Wire Transfer,Low,1
+TXN10024,Customer_24,Ontario,25892.08,Crypto,Low,1
+TXN10025,Customer_25,Alberta,34041.03,Crypto,Low,0
+TXN10026,Customer_26,Manitoba,20496.27,E-Transfer,Low,0
+TXN10027,Customer_27,Alberta,45524.77,Wire Transfer,High,1
+TXN10028,Customer_28,Nova Scotia,41041.35,Cash Deposit,Medium,1
+TXN10029,Customer_29,Alberta,22402.74,Cash Deposit,High,0
+TXN10030,Customer_30,British Columbia,12322.6,Credit Card Payment,High,0
+TXN10031,Customer_31,Manitoba,14565.05,Wire Transfer,High,1
+TXN10032,Customer_32,Saskatchewan,10034.18,Wire Transfer,High,1
+TXN10033,Customer_33,Manitoba,28282.54,Crypto,Medium,0
+TXN10034,Customer_34,New Brunswick,4602.01,E-Transfer,Medium,0
+TXN10035,Customer_35,Nova Scotia,27691.1,E-Transfer,High,0
+TXN10036,Customer_36,Ontario,14312.06,E-Transfer,Medium,0
+TXN10037,Customer_37,Manitoba,24736.09,Credit Card Payment,Medium,0
+TXN10038,Customer_38,Ontario,9721.05,Cash Deposit,Medium,1
+TXN10039,Customer_39,New Brunswick,28279.57,E-Transfer,High,0
+TXN10040,Customer_40,Manitoba,15636.84,Cheque,Medium,0
+TXN10041,Customer_41,New Brunswick,21569.55,Cheque,High,0
+TXN10042,Customer_42,Quebec,24780.26,Crypto,Medium,1
+TXN10043,Customer_43,Saskatchewan,13483.53,Crypto,Low,0
+TXN10044,Customer_44,Saskatchewan,35277.71,E-Transfer,High,0
+TXN10045,Customer_45,Saskatchewan,19932.6,Credit Card Payment,Medium,1
+TXN10046,Customer_46,Nova Scotia,5658.45,Wire Transfer,Medium,0
+TXN10047,Customer_47,Nova Scotia,29423.45,E-Transfer,Low,0
+TXN10048,Customer_48,Saskatchewan,6631.28,Cheque,High,0
+TXN10049,Customer_49,British Columbia,47260.04,Credit Card Payment,Medium,0
+TXN10050,Customer_50,Saskatchewan,6125.49,E-Transfer,Low,1
+TXN10051,Customer_51,British Columbia,38833.24,Cheque,High,0
+TXN10052,Customer_52,New Brunswick,47536.16,Crypto,Medium,1
+TXN10053,Customer_53,Nova Scotia,41016.77,Cheque,Low,1
+TXN10054,Customer_54,Quebec,39734.41,E-Transfer,Medium,1
+TXN10055,Customer_55,Manitoba,39988.97,Crypto,Low,1
+TXN10056,Customer_56,Ontario,7450.73,Credit Card Payment,Medium,1
+TXN10057,Customer_57,Nova Scotia,39013.81,Crypto,Medium,1
+TXN10058,Customer_58,Manitoba,26070.15,Wire Transfer,Medium,1
+TXN10059,Customer_59,Nova Scotia,36259.46,Wire Transfer,Medium,1
+TXN10060,Customer_60,Ontario,40224.45,E-Transfer,High,0
+TXN10061,Customer_61,Manitoba,18663.83,Wire Transfer,High,0
+TXN10062,Customer_62,Manitoba,42618.01,Cheque,Medium,0
+TXN10063,Customer_63,Alberta,951.18,Credit Card Payment,Low,0
+TXN10064,Customer_64,Alberta,872.93,Credit Card Payment,Low,1
+TXN10065,Customer_65,Alberta,40973.73,Credit Card Payment,High,1
+TXN10066,Customer_66,Ontario,40993.92,E-Transfer,High,1
+TXN10067,Customer_67,Ontario,44880.81,Crypto,Low,1
+TXN10068,Customer_68,Saskatchewan,16467.98,Wire Transfer,Medium,1
+TXN10069,Customer_69,Manitoba,19047.92,Cash Deposit,Low,1
+TXN10070,Customer_70,Nova Scotia,559.56,Cash Deposit,Low,0
+TXN10071,Customer_71,Saskatchewan,17384.94,Crypto,Low,0
+TXN10072,Customer_72,New Brunswick,27933.5,E-Transfer,Medium,0
+TXN10073,Customer_73,Saskatchewan,38379.26,Cash Deposit,Low,1
+TXN10074,Customer_74,British Columbia,16663.05,E-Transfer,Low,0
+TXN10075,Customer_75,British Columbia,44862.62,Wire Transfer,Medium,1
+TXN10076,Customer_76,Saskatchewan,23216.49,Crypto,Low,0
+TXN10077,Customer_77,Nova Scotia,18996.57,Wire Transfer,High,1
+TXN10078,Customer_78,Alberta,21156.55,Wire Transfer,Medium,0
+TXN10079,Customer_79,Nova Scotia,42511.96,Crypto,High,1
+TXN10080,Customer_80,Saskatchewan,43841.43,E-Transfer,Low,0
+TXN10081,Customer_81,Manitoba,13052.61,E-Transfer,High,0
+TXN10082,Customer_82,Manitoba,45488.34,Cheque,High,0
+TXN10083,Customer_83,Nova Scotia,33513.47,Cheque,Medium,1
+TXN10084,Customer_84,Alberta,14087.15,Cheque,Low,1
+TXN10085,Customer_85,Saskatchewan,18969.86,Wire Transfer,Medium,1
+TXN10086,Customer_86,Manitoba,7781.77,Credit Card Payment,High,0
+TXN10087,Customer_87,Saskatchewan,17818.92,Cheque,High,0
+TXN10088,Customer_88,Manitoba,1536.83,Cheque,Low,1
+TXN10089,Customer_89,British Columbia,48242.79,Crypto,High,1
+TXN10090,Customer_90,Nova Scotia,27732.55,E-Transfer,High,0
+TXN10091,Customer_91,Saskatchewan,47095.69,Wire Transfer,Medium,1
+TXN10092,Customer_92,Nova Scotia,47163.98,Cheque,Medium,1
+TXN10093,Customer_93,Manitoba,23201.93,Crypto,High,1
+TXN10094,Customer_94,Quebec,45060.73,E-Transfer,High,0
+TXN10095,Customer_95,Saskatchewan,10555.63,Crypto,Medium,1
+TXN10096,Customer_96,Nova Scotia,3647.0,E-Transfer,Low,1
+TXN10097,Customer_97,Saskatchewan,48763.49,Crypto,High,0
+TXN10098,Customer_98,Quebec,5213.59,Cheque,Low,1
+TXN10099,Customer_99,Manitoba,39295.36,E-Transfer,High,0
+TXN10100,Customer_100,Quebec,49047.83,Cash Deposit,Medium,0
+TXN10101,Customer_101,Saskatchewan,2584.33,Cheque,Medium,0
+TXN10102,Customer_102,Ontario,1923.27,Credit Card Payment,Low,0
+TXN10103,Customer_103,Nova Scotia,18613.24,E-Transfer,Medium,0
+TXN10104,Customer_104,Saskatchewan,14364.72,Cheque,High,1
+TXN10105,Customer_105,Quebec,36616.12,Cash Deposit,Medium,0
+TXN10106,Customer_106,Quebec,22653.78,Cash Deposit,Low,0
+TXN10107,Customer_107,Manitoba,26795.46,E-Transfer,High,0
+TXN10108,Customer_108,Quebec,36620.77,Wire Transfer,High,1
+TXN10109,Customer_109,Manitoba,38380.94,Crypto,High,1
+TXN10110,Customer_110,Saskatchewan,45175.63,Credit Card Payment,Low,0
+TXN10111,Customer_111,Manitoba,2538.55,Crypto,Medium,0
+TXN10112,Customer_112,New Brunswick,36392.28,Wire Transfer,High,1
+TXN10113,Customer_113,Alberta,15523.68,Credit Card Payment,Medium,1
+TXN10114,Customer_114,New Brunswick,25068.71,Crypto,Low,0
+TXN10115,Customer_115,New Brunswick,11235.66,E-Transfer,Medium,0
+TXN10116,Customer_116,Nova Scotia,24413.12,Cash Deposit,Low,1
+TXN10117,Customer_117,Saskatchewan,1421.71,Cash Deposit,Low,0
+TXN10118,Customer_118,Manitoba,29142.13,Credit Card Payment,Medium,0
+TXN10119,Customer_119,British Columbia,43768.87,E-Transfer,High,1
+TXN10120,Customer_120,Alberta,34170.03,Cash Deposit,Low,1
+TXN10121,Customer_121,Manitoba,6258.12,Crypto,Low,0
+TXN10122,Customer_122,British Columbia,6231.95,Cash Deposit,Low,0
+TXN10123,Customer_123,Manitoba,48756.35,Credit Card Payment,High,1
+TXN10124,Customer_124,Saskatchewan,24760.44,Cheque,Medium,0
+TXN10125,Customer_125,Nova Scotia,38654.23,Cheque,Low,1
+TXN10126,Customer_126,Saskatchewan,20065.53,Cash Deposit,Medium,1
+TXN10127,Customer_127,Manitoba,29746.28,E-Transfer,Medium,0
+TXN10128,Customer_128,Ontario,17016.01,Wire Transfer,Low,0
+TXN10129,Customer_129,New Brunswick,12088.44,Wire Transfer,Medium,0
+TXN10130,Customer_130,Manitoba,10420.19,Crypto,Medium,1
+TXN10131,Customer_131,Manitoba,23056.93,Cheque,Low,1
+TXN10132,Customer_132,Nova Scotia,20907.87,Crypto,High,1
+TXN10133,Customer_133,Ontario,11869.92,Wire Transfer,Low,0
+TXN10134,Customer_134,British Columbia,28155.98,Wire Transfer,Low,1
+TXN10135,Customer_135,Saskatchewan,15479.39,Cash Deposit,Medium,0
+TXN10136,Customer_136,Quebec,36766.01,Cash Deposit,Low,0
+TXN10137,Customer_137,Nova Scotia,14908.66,E-Transfer,High,0
+TXN10138,Customer_138,Manitoba,30168.9,Credit Card Payment,High,0
+TXN10139,Customer_139,Ontario,37660.96,Credit Card Payment,High,0
+TXN10140,Customer_140,Alberta,15037.41,Credit Card Payment,Low,0
+TXN10141,Customer_141,Alberta,29853.24,Cheque,Low,1
+TXN10142,Customer_142,Nova Scotia,8021.85,Cheque,Medium,1
+TXN10143,Customer_143,Manitoba,31883.45,Credit Card Payment,Medium,0
+TXN10144,Customer_144,Ontario,17459.0,Credit Card Payment,Low,0
+TXN10145,Customer_145,New Brunswick,20644.8,Crypto,Medium,0
+TXN10146,Customer_146,Manitoba,22256.78,Wire Transfer,Low,0
+TXN10147,Customer_147,Manitoba,28927.07,Credit Card Payment,Medium,1
+TXN10148,Customer_148,New Brunswick,44238.86,E-Transfer,High,0
+TXN10149,Customer_149,Ontario,34192.22,Cash Deposit,Medium,1
+TXN10150,Customer_150,Nova Scotia,7010.68,Cash Deposit,Low,1
+TXN10151,Customer_151,Quebec,23263.14,Cash Deposit,Low,0
+TXN10152,Customer_152,Ontario,4791.62,Credit Card Payment,Medium,1
+TXN10153,Customer_153,Saskatchewan,6822.44,Credit Card Payment,Low,0
+TXN10154,Customer_154,Manitoba,26595.52,E-Transfer,Low,0
+TXN10155,Customer_155,Saskatchewan,49525.89,Credit Card Payment,Low,1
+TXN10156,Customer_156,Manitoba,8801.12,Cash Deposit,Medium,1
+TXN10157,Customer_157,Nova Scotia,5591.25,Wire Transfer,Medium,0
+TXN10158,Customer_158,Quebec,35104.13,Credit Card Payment,Low,1
+TXN10159,Customer_159,Nova Scotia,5690.55,Crypto,High,1
+TXN10160,Customer_160,Saskatchewan,22326.97,Cheque,Low,0
+TXN10161,Customer_161,Quebec,37684.08,E-Transfer,High,0
+TXN10162,Customer_162,Nova Scotia,28532.77,Cash Deposit,Low,1
+TXN10163,Customer_163,Quebec,5596.5,Crypto,Low,1
+TXN10164,Customer_164,British Columbia,4275.19,Cheque,Medium,0
+TXN10165,Customer_165,Nova Scotia,28836.47,Crypto,High,0
+TXN10166,Customer_166,New Brunswick,47990.35,Cash Deposit,Low,1
+TXN10167,Customer_167,British Columbia,19704.5,E-Transfer,Medium,0
+TXN10168,Customer_168,Quebec,24053.43,Cash Deposit,Low,1
+TXN10169,Customer_169,Nova Scotia,44316.88,Cheque,High,1
+TXN10170,Customer_170,Manitoba,41196.66,Credit Card Payment,Medium,1
+TXN10171,Customer_171,British Columbia,39788.05,E-Transfer,Low,0
+TXN10172,Customer_172,Ontario,46732.5,Wire Transfer,Low,0
+TXN10173,Customer_173,Manitoba,3804.1,E-Transfer,High,1
+TXN10174,Customer_174,Quebec,28297.43,Cheque,Medium,1
+TXN10175,Customer_175,Ontario,2068.68,Cash Deposit,Medium,1
+TXN10176,Customer_176,Saskatchewan,19919.91,Cash Deposit,Medium,1
+TXN10177,Customer_177,Quebec,34176.15,Cash Deposit,Medium,0
+TXN10178,Customer_178,British Columbia,12674.21,Cheque,High,0
+TXN10179,Customer_179,British Columbia,3706.95,Credit Card Payment,Low,1
+TXN10180,Customer_180,Manitoba,13969.71,Cash Deposit,High,0
+TXN10181,Customer_181,Ontario,38389.63,Wire Transfer,High,1
+TXN10182,Customer_182,New Brunswick,9600.7,E-Transfer,High,0
+TXN10183,Customer_183,Nova Scotia,6341.08,Credit Card Payment,High,0
+TXN10184,Customer_184,Ontario,3476.62,Wire Transfer,Low,0
+TXN10185,Customer_185,Saskatchewan,1676.22,Wire Transfer,High,0
+TXN10186,Customer_186,British Columbia,32167.54,Cash Deposit,High,0
+TXN10187,Customer_187,British Columbia,13637.55,Crypto,Medium,1
+TXN10188,Customer_188,Alberta,44136.51,Cash Deposit,Low,0
+TXN10189,Customer_189,Manitoba,6070.07,Wire Transfer,Medium,0
+TXN10190,Customer_190,Saskatchewan,24574.92,Cheque,Low,1
+TXN10191,Customer_191,British Columbia,27278.45,E-Transfer,Low,0
+TXN10192,Customer_192,Quebec,7735.1,E-Transfer,Medium,0
+TXN10193,Customer_193,Quebec,1075.62,Crypto,High,1
+TXN10194,Customer_194,Alberta,45801.92,Cash Deposit,Medium,0
+TXN10195,Customer_195,British Columbia,20829.24,Cheque,Medium,1
+TXN10196,Customer_196,Ontario,45404.75,Crypto,Low,1
+TXN10197,Customer_197,Saskatchewan,36304.31,Cheque,High,0
+TXN10198,Customer_198,Manitoba,48853.53,Credit Card Payment,High,1
+TXN10199,Customer_199,New Brunswick,527.04,E-Transfer,Medium,0
+TXN10200,Customer_200,Manitoba,23431.31,Crypto,Medium,1
+TXN10201,Customer_201,New Brunswick,737.78,E-Transfer,Low,0
+TXN10202,Customer_202,Ontario,34227.44,Cash Deposit,Low,1
+TXN10203,Customer_203,Alberta,41724.83,E-Transfer,Medium,1
+TXN10204,Customer_204,Manitoba,48520.27,Crypto,High,1
+TXN10205,Customer_205,Ontario,32268.96,Credit Card Payment,High,1
+TXN10206,Customer_206,Manitoba,48765.14,E-Transfer,High,0
+TXN10207,Customer_207,New Brunswick,43901.23,Crypto,High,1
+TXN10208,Customer_208,New Brunswick,40977.96,Credit Card Payment,Low,1
+TXN10209,Customer_209,Manitoba,49979.57,Wire Transfer,High,0
+TXN10210,Customer_210,Ontario,19663.27,Cheque,Medium,1
+TXN10211,Customer_211,Alberta,24656.24,Cheque,High,0
+TXN10212,Customer_212,Manitoba,20916.38,Wire Transfer,Medium,0
+TXN10213,Customer_213,Alberta,27989.92,Cash Deposit,Low,0
+TXN10214,Customer_214,Ontario,33091.46,Wire Transfer,Low,0
+TXN10215,Customer_215,Ontario,12832.79,Credit Card Payment,High,0
+TXN10216,Customer_216,New Brunswick,27901.59,E-Transfer,High,1
+TXN10217,Customer_217,Ontario,17008.64,Credit Card Payment,Medium,1
+TXN10218,Customer_218,Manitoba,14154.19,Credit Card Payment,High,0
+TXN10219,Customer_219,Nova Scotia,33049.74,E-Transfer,Low,1
+TXN10220,Customer_220,Alberta,10320.79,Wire Transfer,Medium,1
+TXN10221,Customer_221,Alberta,45062.23,Crypto,Medium,1
+TXN10222,Customer_222,Ontario,6164.99,Crypto,Low,0
+TXN10223,Customer_223,Nova Scotia,22104.94,Crypto,Medium,1
+TXN10224,Customer_224,British Columbia,21238.72,Crypto,Low,1
+TXN10225,Customer_225,New Brunswick,6209.24,Cash Deposit,High,1
+TXN10226,Customer_226,Alberta,10970.17,Credit Card Payment,Medium,0
+TXN10227,Customer_227,New Brunswick,16054.84,Cheque,High,1
+TXN10228,Customer_228,New Brunswick,2134.61,E-Transfer,High,1
+TXN10229,Customer_229,British Columbia,31921.61,E-Transfer,High,1
+TXN10230,Customer_230,Nova Scotia,38528.07,E-Transfer,Medium,1
+TXN10231,Customer_231,Alberta,15156.03,Wire Transfer,Medium,1
+TXN10232,Customer_232,Alberta,25984.69,Crypto,Low,1
+TXN10233,Customer_233,Nova Scotia,41773.97,Cheque,Medium,0
+TXN10234,Customer_234,British Columbia,41900.94,Credit Card Payment,Low,1
+TXN10235,Customer_235,Saskatchewan,17968.39,Cash Deposit,Low,1
+TXN10236,Customer_236,Ontario,33269.56,Wire Transfer,Medium,1
+TXN10237,Customer_237,Alberta,6146.42,Crypto,High,0
+TXN10238,Customer_238,Quebec,10995.99,Credit Card Payment,Low,1
+TXN10239,Customer_239,Manitoba,7492.58,Wire Transfer,High,1
+TXN10240,Customer_240,Quebec,36804.51,E-Transfer,Medium,1
+TXN10241,Customer_241,Alberta,41916.83,E-Transfer,Low,0
+TXN10242,Customer_242,New Brunswick,21342.37,Cash Deposit,High,0
+TXN10243,Customer_243,Ontario,15063.08,Crypto,Low,1
+TXN10244,Customer_244,Manitoba,41936.96,Credit Card Payment,Medium,1
+TXN10245,Customer_245,Ontario,42770.42,Credit Card Payment,Medium,0
+TXN10246,Customer_246,Alberta,25330.5,Credit Card Payment,Low,0
+TXN10247,Customer_247,New Brunswick,14125.99,Cash Deposit,Low,0
+TXN10248,Customer_248,New Brunswick,33284.49,Cash Deposit,Medium,1
+TXN10249,Customer_249,Saskatchewan,21592.39,Cheque,Low,0
+TXN10250,Customer_250,Saskatchewan,31319.14,Cash Deposit,Low,1
+TXN10251,Customer_251,Alberta,31429.18,Credit Card Payment,Medium,1
+TXN10252,Customer_252,Quebec,4600.67,Cash Deposit,Medium,0
+TXN10253,Customer_253,Manitoba,34425.35,E-Transfer,High,1
+TXN10254,Customer_254,Nova Scotia,24984.83,Crypto,Medium,0
+TXN10255,Customer_255,New Brunswick,23153.35,Cheque,High,1
+TXN10256,Customer_256,New Brunswick,28431.69,Cheque,Medium,0
+TXN10257,Customer_257,Ontario,688.0,E-Transfer,High,1
+TXN10258,Customer_258,Nova Scotia,12413.02,Credit Card Payment,Medium,0
+TXN10259,Customer_259,Nova Scotia,17136.5,Wire Transfer,Medium,1
+TXN10260,Customer_260,Quebec,46100.48,Cheque,Medium,1
+TXN10261,Customer_261,New Brunswick,36135.79,Cheque,High,1
+TXN10262,Customer_262,Ontario,3290.65,Wire Transfer,Medium,0
+TXN10263,Customer_263,Alberta,34377.84,Cheque,Low,1
+TXN10264,Customer_264,Nova Scotia,19831.35,E-Transfer,Medium,0
+TXN10265,Customer_265,New Brunswick,48519.92,Wire Transfer,High,0
+TXN10266,Customer_266,Alberta,46074.6,E-Transfer,Low,0
+TXN10267,Customer_267,New Brunswick,45252.41,Wire Transfer,High,1
+TXN10268,Customer_268,Nova Scotia,48218.13,Cheque,Medium,1
+TXN10269,Customer_269,Nova Scotia,24170.33,Cash Deposit,Low,0
+TXN10270,Customer_270,Manitoba,42221.9,Credit Card Payment,High,1
+TXN10271,Customer_271,British Columbia,36906.81,Cash Deposit,Medium,1
+TXN10272,Customer_272,Ontario,24867.21,Wire Transfer,Low,0
+TXN10273,Customer_273,Manitoba,21110.23,Cash Deposit,Low,1
+TXN10274,Customer_274,Ontario,42890.14,Credit Card Payment,Low,1
+TXN10275,Customer_275,Quebec,47864.99,Crypto,High,1
+TXN10276,Customer_276,Quebec,27720.37,E-Transfer,Medium,1
+TXN10277,Customer_277,British Columbia,15367.27,Cheque,Medium,1
+TXN10278,Customer_278,New Brunswick,24870.96,Cash Deposit,High,0
+TXN10279,Customer_279,Quebec,35172.34,E-Transfer,Low,0
+TXN10280,Customer_280,British Columbia,32275.09,Crypto,Medium,0
+TXN10281,Customer_281,British Columbia,49567.51,Cash Deposit,High,0
+TXN10282,Customer_282,Alberta,34517.2,Crypto,Medium,0
+TXN10283,Customer_283,Manitoba,5741.68,Cheque,High,1
+TXN10284,Customer_284,Nova Scotia,18517.74,Cheque,Medium,0
+TXN10285,Customer_285,Ontario,26194.95,E-Transfer,Low,0
+TXN10286,Customer_286,British Columbia,45616.18,E-Transfer,High,1
+TXN10287,Customer_287,Alberta,46168.45,E-Transfer,High,0
+TXN10288,Customer_288,Ontario,23295.19,Credit Card Payment,Low,0
+TXN10289,Customer_289,Manitoba,5759.18,Credit Card Payment,Low,0
+TXN10290,Customer_290,Ontario,15213.31,Credit Card Payment,High,0
+TXN10291,Customer_291,Nova Scotia,21349.35,Credit Card Payment,Low,1
+TXN10292,Customer_292,British Columbia,17148.8,Crypto,Medium,0
+TXN10293,Customer_293,Quebec,13483.69,Crypto,High,0
+TXN10294,Customer_294,New Brunswick,2031.36,Cheque,Medium,1
+TXN10295,Customer_295,Alberta,22410.59,Wire Transfer,High,0
+TXN10296,Customer_296,New Brunswick,49520.82,Cheque,Low,1
+TXN10297,Customer_297,Manitoba,39314.91,E-Transfer,High,0
+TXN10298,Customer_298,Alberta,38439.52,Crypto,Medium,1
+TXN10299,Customer_299,New Brunswick,8839.94,Cheque,Medium,0
+TXN10300,Customer_300,Manitoba,1311.91,Cash Deposit,Low,1
+TXN10301,Customer_301,Ontario,16740.61,Cheque,High,0
+TXN10302,Customer_302,New Brunswick,1977.68,Cash Deposit,High,0
+TXN10303,Customer_303,New Brunswick,42801.64,E-Transfer,High,0
+TXN10304,Customer_304,Alberta,15259.33,Wire Transfer,High,0
+TXN10305,Customer_305,Saskatchewan,27268.86,Cash Deposit,High,0
+TXN10306,Customer_306,New Brunswick,40111.4,Credit Card Payment,High,1
+TXN10307,Customer_307,Saskatchewan,13453.7,Crypto,Low,0
+TXN10308,Customer_308,New Brunswick,23350.1,Credit Card Payment,Low,1
+TXN10309,Customer_309,Saskatchewan,20792.26,Credit Card Payment,Medium,0
+TXN10310,Customer_310,Manitoba,7345.41,Cash Deposit,Low,1
+TXN10311,Customer_311,Quebec,17362.58,Cheque,High,0
+TXN10312,Customer_312,Ontario,17997.66,E-Transfer,Medium,1
+TXN10313,Customer_313,Ontario,38650.08,Credit Card Payment,Medium,0
+TXN10314,Customer_314,Quebec,9356.2,Cash Deposit,Medium,0
+TXN10315,Customer_315,British Columbia,46515.25,Crypto,Low,1
+TXN10316,Customer_316,Manitoba,35252.03,Crypto,Low,1
+TXN10317,Customer_317,Alberta,23243.51,Cheque,Low,1
+TXN10318,Customer_318,Quebec,31154.54,Credit Card Payment,High,0
+TXN10319,Customer_319,Nova Scotia,38998.92,E-Transfer,High,0
+TXN10320,Customer_320,Nova Scotia,41172.05,Credit Card Payment,Medium,0
+TXN10321,Customer_321,Nova Scotia,42745.86,Wire Transfer,Medium,1
+TXN10322,Customer_322,Quebec,1148.71,Wire Transfer,Low,0
+TXN10323,Customer_323,Nova Scotia,49456.62,Wire Transfer,Medium,1
+TXN10324,Customer_324,Quebec,33879.2,Cash Deposit,Medium,0
+TXN10325,Customer_325,Alberta,12210.25,Credit Card Payment,Low,1
+TXN10326,Customer_326,Ontario,41887.85,Wire Transfer,Low,0
+TXN10327,Customer_327,Nova Scotia,30268.27,Cash Deposit,Low,1
+TXN10328,Customer_328,Alberta,27107.46,Cash Deposit,High,1
+TXN10329,Customer_329,Nova Scotia,22795.58,Credit Card Payment,Low,1
+TXN10330,Customer_330,New Brunswick,29981.26,Wire Transfer,Medium,0
+TXN10331,Customer_331,Alberta,1282.85,Cash Deposit,High,0
+TXN10332,Customer_332,Ontario,37840.92,Credit Card Payment,Low,0
+TXN10333,Customer_333,Saskatchewan,42336.15,Crypto,Low,0
+TXN10334,Customer_334,Manitoba,43883.37,Credit Card Payment,High,0
+TXN10335,Customer_335,British Columbia,22886.24,Crypto,Medium,0
+TXN10336,Customer_336,Quebec,19321.67,Cash Deposit,Medium,0
+TXN10337,Customer_337,Saskatchewan,37540.79,E-Transfer,Low,0
+TXN10338,Customer_338,Nova Scotia,45136.78,Cash Deposit,Low,1
+TXN10339,Customer_339,New Brunswick,48517.26,Cash Deposit,Low,1
+TXN10340,Customer_340,Quebec,32014.1,Cash Deposit,Low,0
+TXN10341,Customer_341,Quebec,21200.43,E-Transfer,Low,0
+TXN10342,Customer_342,British Columbia,3201.89,E-Transfer,Medium,0
+TXN10343,Customer_343,Ontario,29976.71,Wire Transfer,High,0
+TXN10344,Customer_344,Saskatchewan,5476.97,Credit Card Payment,Medium,1
+TXN10345,Customer_345,New Brunswick,28381.5,Credit Card Payment,Low,0
+TXN10346,Customer_346,Quebec,25818.96,Credit Card Payment,Medium,1
+TXN10347,Customer_347,New Brunswick,34522.69,Wire Transfer,Low,1
+TXN10348,Customer_348,Saskatchewan,27368.94,Credit Card Payment,Low,1
+TXN10349,Customer_349,Ontario,47783.69,Cash Deposit,High,0
+TXN10350,Customer_350,New Brunswick,14795.36,Cash Deposit,Low,0
+TXN10351,Customer_351,Ontario,28972.11,Credit Card Payment,Low,0
+TXN10352,Customer_352,Nova Scotia,10899.85,Credit Card Payment,High,1
+TXN10353,Customer_353,Manitoba,9037.08,Cheque,High,1
+TXN10354,Customer_354,Ontario,23282.38,Credit Card Payment,Medium,1
+TXN10355,Customer_355,Quebec,42518.83,Credit Card Payment,Low,1
+TXN10356,Customer_356,Quebec,41919.84,Cheque,High,0
+TXN10357,Customer_357,Saskatchewan,26929.73,E-Transfer,Medium,1
+TXN10358,Customer_358,Quebec,40530.85,Cash Deposit,Low,1
+TXN10359,Customer_359,Quebec,45943.07,Wire Transfer,Low,1
+TXN10360,Customer_360,Alberta,41973.79,Crypto,Medium,1
+TXN10361,Customer_361,Alberta,46292.6,Crypto,Low,1
+TXN10362,Customer_362,New Brunswick,48703.96,Wire Transfer,Medium,1
+TXN10363,Customer_363,British Columbia,24915.12,E-Transfer,Medium,0
+TXN10364,Customer_364,Saskatchewan,23764.27,Credit Card Payment,Low,1
+TXN10365,Customer_365,British Columbia,10617.47,Crypto,Low,0
+TXN10366,Customer_366,Manitoba,21140.21,Cheque,Low,1
+TXN10367,Customer_367,Ontario,27750.96,Crypto,Medium,1
+TXN10368,Customer_368,Manitoba,15303.62,Cheque,Medium,0
+TXN10369,Customer_369,British Columbia,39591.16,Crypto,High,1
+TXN10370,Customer_370,New Brunswick,37177.18,Cash Deposit,Medium,0
+TXN10371,Customer_371,Ontario,43949.16,Cash Deposit,Medium,0
+TXN10372,Customer_372,British Columbia,16442.47,Wire Transfer,High,1
+TXN10373,Customer_373,Ontario,30476.36,Wire Transfer,Low,0
+TXN10374,Customer_374,Alberta,9877.13,Crypto,High,0
+TXN10375,Customer_375,Ontario,17802.89,E-Transfer,Low,0
+TXN10376,Customer_376,Manitoba,39673.52,Wire Transfer,Medium,0
+TXN10377,Customer_377,British Columbia,42968.1,Wire Transfer,Low,0
+TXN10378,Customer_378,New Brunswick,28133.17,Wire Transfer,Medium,1
+TXN10379,Customer_379,British Columbia,259.96,E-Transfer,High,0
+TXN10380,Customer_380,Quebec,24382.8,Wire Transfer,High,0
+TXN10381,Customer_381,Alberta,2378.51,Cheque,Low,1
+TXN10382,Customer_382,Saskatchewan,14192.61,Wire Transfer,High,0
+TXN10383,Customer_383,Nova Scotia,26451.8,Cash Deposit,Medium,0
+TXN10384,Customer_384,Alberta,13497.48,E-Transfer,High,1
+TXN10385,Customer_385,Alberta,49003.66,Credit Card Payment,Low,0
+TXN10386,Customer_386,Nova Scotia,19075.27,Cheque,Low,1
+TXN10387,Customer_387,Ontario,31912.39,E-Transfer,Low,1
+TXN10388,Customer_388,New Brunswick,44332.27,Credit Card Payment,Medium,1
+TXN10389,Customer_389,British Columbia,28464.88,Cash Deposit,Medium,1
+TXN10390,Customer_390,Manitoba,44403.0,Credit Card Payment,Medium,0
+TXN10391,Customer_391,British Columbia,23626.81,Wire Transfer,High,1
+TXN10392,Customer_392,Nova Scotia,42853.22,Cheque,Medium,0
+TXN10393,Customer_393,Alberta,45359.34,Wire Transfer,High,1
+TXN10394,Customer_394,Alberta,41167.68,Cash Deposit,Medium,0
+TXN10395,Customer_395,Manitoba,43540.91,Wire Transfer,Low,0
+TXN10396,Customer_396,New Brunswick,36157.73,Credit Card Payment,Low,1
+TXN10397,Customer_397,New Brunswick,18251.55,Crypto,Medium,1
+TXN10398,Customer_398,Ontario,44629.55,Wire Transfer,Low,0
+TXN10399,Customer_399,Saskatchewan,46272.16,Crypto,Low,0
+TXN10400,Customer_400,Quebec,21478.25,Credit Card Payment,Medium,1
+TXN10401,Customer_401,New Brunswick,29516.76,Cheque,High,1
+TXN10402,Customer_402,Manitoba,39184.8,Wire Transfer,Medium,1
+TXN10403,Customer_403,Manitoba,21436.72,Wire Transfer,High,0
+TXN10404,Customer_404,British Columbia,44833.31,E-Transfer,High,1
+TXN10405,Customer_405,Saskatchewan,42271.35,Cash Deposit,Low,0
+TXN10406,Customer_406,Saskatchewan,42435.91,E-Transfer,Medium,0
+TXN10407,Customer_407,Ontario,11392.41,Cheque,High,1
+TXN10408,Customer_408,Nova Scotia,42500.21,Cash Deposit,High,1
+TXN10409,Customer_409,Quebec,34099.93,Cash Deposit,Low,1
+TXN10410,Customer_410,British Columbia,48910.71,Cheque,High,1
+TXN10411,Customer_411,Alberta,3251.2,Credit Card Payment,Low,1
+TXN10412,Customer_412,Alberta,41544.58,Credit Card Payment,High,1
+TXN10413,Customer_413,Saskatchewan,26938.33,Crypto,High,0
+TXN10414,Customer_414,Quebec,33710.75,Wire Transfer,High,0
+TXN10415,Customer_415,Manitoba,40387.14,Crypto,Low,1
+TXN10416,Customer_416,Nova Scotia,19899.04,Crypto,High,0
+TXN10417,Customer_417,British Columbia,30299.16,E-Transfer,Low,0
+TXN10418,Customer_418,Ontario,5747.39,Crypto,Medium,0
+TXN10419,Customer_419,Manitoba,6703.93,Cheque,High,1
+TXN10420,Customer_420,Saskatchewan,24090.01,Crypto,Low,0
+TXN10421,Customer_421,Quebec,20345.86,Cash Deposit,Low,0
+TXN10422,Customer_422,British Columbia,16794.44,Cheque,High,1
+TXN10423,Customer_423,Quebec,43984.36,Cheque,Low,0
+TXN10424,Customer_424,New Brunswick,35354.18,Cash Deposit,Medium,1
+TXN10425,Customer_425,Manitoba,13189.61,Credit Card Payment,Low,0
+TXN10426,Customer_426,British Columbia,42396.11,Wire Transfer,High,0
+TXN10427,Customer_427,Ontario,48278.5,Cheque,Low,1
+TXN10428,Customer_428,Quebec,43250.81,Cheque,Medium,0
+TXN10429,Customer_429,Ontario,16330.64,Cheque,Medium,1
+TXN10430,Customer_430,Saskatchewan,22095.65,Cash Deposit,Medium,1
+TXN10431,Customer_431,British Columbia,34202.24,Crypto,Low,1
+TXN10432,Customer_432,Saskatchewan,47353.34,Cash Deposit,Medium,1
+TXN10433,Customer_433,Saskatchewan,38915.11,Credit Card Payment,Low,0
+TXN10434,Customer_434,Manitoba,20402.95,Wire Transfer,High,0
+TXN10435,Customer_435,Saskatchewan,23350.1,Cheque,Low,0
+TXN10436,Customer_436,Alberta,36104.89,E-Transfer,High,1
+TXN10437,Customer_437,New Brunswick,27003.42,Cheque,Medium,1
+TXN10438,Customer_438,Manitoba,2286.71,Credit Card Payment,Medium,0
+TXN10439,Customer_439,Manitoba,16320.97,Credit Card Payment,High,0
+TXN10440,Customer_440,British Columbia,17246.3,Credit Card Payment,Low,1
+TXN10441,Customer_441,New Brunswick,48451.8,Wire Transfer,Medium,1
+TXN10442,Customer_442,New Brunswick,29749.81,Cash Deposit,Medium,1
+TXN10443,Customer_443,New Brunswick,42445.68,Wire Transfer,Low,1
+TXN10444,Customer_444,Manitoba,32427.78,E-Transfer,Low,1
+TXN10445,Customer_445,Alberta,22821.23,Cash Deposit,Low,1
+TXN10446,Customer_446,Nova Scotia,8856.68,E-Transfer,High,0
+TXN10447,Customer_447,Manitoba,36922.62,Cheque,Medium,0
+TXN10448,Customer_448,Nova Scotia,9977.58,E-Transfer,Medium,0
+TXN10449,Customer_449,Alberta,34475.12,Wire Transfer,High,0
+TXN10450,Customer_450,Saskatchewan,48763.42,E-Transfer,Medium,0
+TXN10451,Customer_451,Nova Scotia,26144.53,E-Transfer,Medium,1
+TXN10452,Customer_452,New Brunswick,39414.12,Crypto,Low,0
+TXN10453,Customer_453,Manitoba,17262.75,E-Transfer,Medium,1
+TXN10454,Customer_454,New Brunswick,29080.86,Wire Transfer,Medium,1
+TXN10455,Customer_455,British Columbia,5184.28,Wire Transfer,Low,0
+TXN10456,Customer_456,Manitoba,30999.39,E-Transfer,Low,0
+TXN10457,Customer_457,Saskatchewan,49784.87,E-Transfer,Low,0
+TXN10458,Customer_458,Manitoba,7696.64,E-Transfer,High,0
+TXN10459,Customer_459,British Columbia,17797.82,Crypto,High,0
+TXN10460,Customer_460,New Brunswick,49105.92,E-Transfer,Medium,1
+TXN10461,Customer_461,Quebec,28828.03,Wire Transfer,High,1
+TXN10462,Customer_462,New Brunswick,38872.94,Cheque,Medium,0
+TXN10463,Customer_463,New Brunswick,49597.25,Crypto,Medium,1
+TXN10464,Customer_464,Alberta,48308.74,Crypto,Medium,0
+TXN10465,Customer_465,Quebec,32491.65,Cash Deposit,Medium,1
+TXN10466,Customer_466,Ontario,26157.7,Crypto,Medium,1
+TXN10467,Customer_467,Alberta,48220.88,Cheque,Medium,0
+TXN10468,Customer_468,Alberta,6571.64,Credit Card Payment,Medium,1
+TXN10469,Customer_469,British Columbia,27505.19,Wire Transfer,Low,1
+TXN10470,Customer_470,Manitoba,21593.68,Credit Card Payment,Low,1
+TXN10471,Customer_471,Quebec,2565.78,Crypto,High,1
+TXN10472,Customer_472,Nova Scotia,28520.2,Crypto,High,1
+TXN10473,Customer_473,Nova Scotia,6472.7,Cheque,High,0
+TXN10474,Customer_474,Nova Scotia,9937.78,Cheque,Low,0
+TXN10475,Customer_475,Alberta,42967.8,Credit Card Payment,High,0
+TXN10476,Customer_476,Ontario,8144.42,Credit Card Payment,Medium,1
+TXN10477,Customer_477,New Brunswick,35220.01,Cheque,Medium,0
+TXN10478,Customer_478,British Columbia,46231.56,Crypto,Medium,0
+TXN10479,Customer_479,Saskatchewan,12664.86,Wire Transfer,Low,1
+TXN10480,Customer_480,Manitoba,8433.72,Crypto,Medium,1
+TXN10481,Customer_481,Ontario,21061.92,E-Transfer,Low,1
+TXN10482,Customer_482,New Brunswick,25622.34,Crypto,Medium,1
+TXN10483,Customer_483,Manitoba,11835.63,Credit Card Payment,High,0
+TXN10484,Customer_484,Manitoba,12839.79,Cash Deposit,Medium,0
+TXN10485,Customer_485,Quebec,2882.23,Crypto,Medium,0
+TXN10486,Customer_486,Saskatchewan,26431.51,E-Transfer,High,1
+TXN10487,Customer_487,Quebec,43154.12,Cheque,High,1
+TXN10488,Customer_488,Ontario,34307.11,Cheque,Low,0
+TXN10489,Customer_489,Alberta,16047.68,Cheque,Medium,1
+TXN10490,Customer_490,Ontario,24412.23,E-Transfer,Low,0
+TXN10491,Customer_491,New Brunswick,43258.45,Wire Transfer,Medium,1
+TXN10492,Customer_492,Manitoba,42814.17,Credit Card Payment,Medium,1
+TXN10493,Customer_493,Saskatchewan,30107.21,E-Transfer,Low,0
+TXN10494,Customer_494,Manitoba,34542.87,Crypto,Low,0
+TXN10495,Customer_495,New Brunswick,20315.54,E-Transfer,High,0
+TXN10496,Customer_496,Saskatchewan,21610.42,Cash Deposit,Medium,1
+TXN10497,Customer_497,Quebec,32155.45,Wire Transfer,Low,1
+TXN10498,Customer_498,Ontario,34602.57,E-Transfer,Low,0
+TXN10499,Customer_499,New Brunswick,23855.16,Wire Transfer,Low,1
